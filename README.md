@@ -25,17 +25,6 @@ I create engaging gaming experiences on the Roblox platform while building robus
 - **Databases**: MariaDB, MySQL
 - **Version Control**: Git, GitHub
 
-## Featured Projects
-
-### 🎮 Roblox Games
-*Showcase of published games and development experience*
-
-### 💻 Web Applications
-*Full-stack projects demonstrating modern development practices*
-
-### 🛠️ Tools & Utilities
-*Custom development tools and helpful scripts*
-
 ## Contact
 
 Feel free to reach out for collaboration opportunities or to discuss your next project!
