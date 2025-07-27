@@ -1669,3 +1669,88 @@ figure.dotted-bg {
       .site-footer .social li a:hover {
         background: #36a1ff;
         color: #ffffff; }
+
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+
+  .text-black,
+  .text-secondary {
+    color: #ffffff !important;
+  }
+
+  .bg-primary-light {
+    background-color: rgba(3, 137, 255, 0.2);
+  }
+
+  .bg-secondary-light {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  a {
+    color: #bb86fc;
+  }
+
+  a:hover {
+    color: #ff79c6;
+  }
+
+  ::-moz-selection {
+    background: #e0e0e0;
+    color: #121212;
+  }
+
+  ::selection {
+    background: #e0e0e0;
+    color: #121212;
+  }
+
+  .btn.btn-primary {
+    background: #bb86fc;
+    border-color: #bb86fc;
+  }
+
+  .btn.btn-primary:hover {
+    background: #ff79c6;
+    border-color: #ff79c6;
+  }
+
+  .btn.btn-black,
+  .btn.btn-secondary {
+    background: #ffffff;
+    color: #000000;
+  }
+
+  .btn.btn-black:hover,
+  .btn.btn-secondary:hover {
+    background: #d1d1d1;
+  }
+
+  .site-nav {
+    background: #1f1f1f;
+  }
+
+  .site-nav a {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .site-nav a:hover {
+    color: #ffffff;
+  }
+
+  .site-footer {
+    background: #1f1f1f;
+    color: #e0e0e0;
+  }
+
+  .site-footer a {
+    color: #bb86fc;
+  }
+
+  .site-footer a:hover {
+    color: #ff79c6;
+  }
+}
