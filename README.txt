@@ -41,9 +41,9 @@ I create engaging gaming experiences on the Roblox platform while building robus
 Feel free to reach out for collaboration opportunities or to discuss your next project!
 
 - **GitHub**: [github.com/nmerck1](https://github.com/nmerck1)
-- **Roblox Profile**: https://www.roblox.com/users/22010705/profile
-- **Portfolio Website**: www.nathanielmerck.com
+- **Roblox Profile**: [roblox.com/users/22010705/profile](https://www.roblox.com/users/22010705/profile)
+- **Portfolio Website**: [nathanielmerck.com](https://www.nathanielmerck.com)
 
 ---
 
-*Always learning, always building, always gaming* 🚀
+*Always learning, always building* 🚀
