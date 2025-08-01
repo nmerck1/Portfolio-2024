@@ -31,7 +31,7 @@ Feel free to reach out for collaboration opportunities or to discuss your next p
 
 - **GitHub**: [github.com/nmerck1](https://github.com/nmerck1)
 - **Roblox Profile**: [roblox.com/users/22010705/profile](https://www.roblox.com/users/22010705/profile)
-- **Portfolio Website**: [nathanielmerck.com](https://www.nathanielmerck.com)
+- **Portfolio Website**: Offline
 
 ---
 
